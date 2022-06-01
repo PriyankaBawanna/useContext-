@@ -1,11 +1,11 @@
 import React from "react";
-import ComponenetTwo from "./ComponentTwo";
+import Componenet5 from "./ComponentFifth";
 const ComponenetOne = () => {
   console.log(" component one is callig");
   return (
     <>
       <h1>This is First Componenet </h1>
-      <ComponenetTwo />
+      <Componenet5 />
     </>
   );
 };
